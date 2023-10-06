@@ -36,9 +36,9 @@ int main(void) {
 ```
 
 ### 42's Projects Already Graded 
-[![](./icons/libft.png)](https://github.com/psdiaspedro/libft-42Cursus)
-[![](./icons/get_next_line.png)](https://github.com/psdiaspedro/GNL-42Cursus)
-[![](./icons/ft_printfe.png)](https://github.com/psdiaspedro/printf-42Cursus)
-[![](./icons/born2beroote.png)](https://github.com/psdiaspedro/born2beroot-42Cursus)
-[![](./icons/so_longm.png)](https://github.com/psdiaspedro/soLong-42Cursus)
-[![](./icons/minitalkm.png)](https://github.com/psdiaspedro/minitalk-42Cursus)
+[![](./icons/libft.png)]
+[![](./icons/get_next_line.png)]
+[![](./icons/ft_printfe.png)]
+[![](./icons/born2beroote.png)]
+[![](./icons/so_longm.png)]
+[![](./icons/minitalkm.png)]
