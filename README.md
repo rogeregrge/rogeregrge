@@ -1,6 +1,6 @@
 <h1> Hello, I'm Rogério Vidal!</h1>
 
-[![Linkedin: Rogério Vidal](https://img.shields.io/badge/-_pedroadias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rog%C3%A9rio-vidal-a45201271/)](https://www.linkedin.com/in/rog%C3%A9rio-vidal-a45201271/)
+[![Linkedin: Rogério Vidal](https://img.shields.io/badge/-_rogeriovidal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rog%C3%A9rio-vidal-a45201271/)](https://www.linkedin.com/in/rog%C3%A9rio-vidal-a45201271/)
 
  little bit about myself...
 
