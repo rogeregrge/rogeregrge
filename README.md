@@ -1,6 +1,7 @@
+<img src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" width="300">
 <h1> Hello, I'm Rogério Vidal!</h1>
 
-[![Linkedin: Rogério Vidal](https://img.shields.io/badge/-_RogérioVidal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rog%C3%A9rio-vidal-a45201271/)](https://www.linkedin.com/in/rog%C3%A9rio-vidal-a45201271/)
+[![Linkedin: Rogério Vidal](https://img.shields.io/badge/-_rogériovidal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rog%C3%A9rio-vidal-a45201271/)](https://www.linkedin.com/in/rog%C3%A9rio-vidal-a45201271/)
 
  little bit about myself...
 
