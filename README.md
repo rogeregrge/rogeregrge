@@ -42,5 +42,3 @@ int main(void) {
 ![](./icons/born2beroote.png)
 ![](./icons/so_longm.png)
 ![](./icons/minitalkm.png)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dellribeiro&theme=transparent&layout=compact&title_color=ffcc00&text_color=87CEFA&border_color=ffcc00&bg_color=022037)
