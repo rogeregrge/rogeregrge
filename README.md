@@ -37,8 +37,8 @@ int main(void) {
 
 ### 42's Projects Already Graded 
 ![](./icons/libft.png)
-[![](./icons/get_next_line.png)
-![](./icons/ft_printfe.png)]
+![](./icons/get_next_line.png)
+![](./icons/ft_printfe.png)
 ![](./icons/born2beroote.png)
-![](./icons/so_longm.png)]
+![](./icons/so_longm.png)
 ![](./icons/minitalkm.png)
