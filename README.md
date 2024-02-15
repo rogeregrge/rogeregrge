@@ -1,4 +1,4 @@
-<h1> Hello, I'm Rogério Vidal!</h1>
+<h1> Hello, I'm Roger Vidal!</h1>
 
 <img src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif">
 
@@ -23,7 +23,7 @@ class Person {
 
 int main(void) {
   Person myself;
-  myself.name = "Rogério Vidal";
+  myself.name = "Roger Vidal";
   myself.age = 29;
   myself.spokenLanguages.push_back("Portuguese - Native");
   myself.spokenLanguages.push_back("English - Fluent");
