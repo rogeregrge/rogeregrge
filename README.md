@@ -1,6 +1,6 @@
 <h1> Hello, I'm Roger Vidal!</h1>
 
-<img src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif">
+<img src="https://media.tenor.com/hf_R_l24--sAAAAi/cat-meme-laptop.gif">
 
 [![Linkedin: Rogério Vidal](https://img.shields.io/badge/-_rogériovidal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rog%C3%A9rio-vidal-a45201271/)](https://www.linkedin.com/in/rog%C3%A9rio-vidal-a45201271/)
 
