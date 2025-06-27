@@ -4,7 +4,7 @@
 
 [![Linkedin: Rogério Vidal](https://img.shields.io/badge/-_rogériovidal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rog%C3%A9rio-vidal-a45201271/)](https://www.linkedin.com/in/rog%C3%A9rio-vidal-a45201271/)
 
- little bit about myself...
+ About myself:
 
 ```cpp
 #include <iostream>
@@ -27,9 +27,9 @@ int main(void) {
   myself.age = 30;
   myself.spokenLanguages.push_back("Portuguese - Native");
   myself.spokenLanguages.push_back("English - Fluent");
-  myself.familiarProgmmingLanguagespush_back("C");
-  myself.familiarProgmmingLanguagespush_back("JavaScript / Typescript");
-  myself.familiarProgmmingLanguagespush_back("Flutter");
+  myself.familiarProgammingLanguagespush_back("C#");
+  myself.familiarProgammingLanguagespush_back("JavaScript / Typescript");
+  myself.familiarProgammingFrameworkpush_back("React");
 
   return (0);
 }
