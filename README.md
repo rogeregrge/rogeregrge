@@ -18,7 +18,7 @@ class Person {
     int             age;
     string          nativeFrom;
     vector<string>  spokenLanguages
-    vector<string>  familiarProgmmingLanguages;
+    vector<string>  familiarProgammingLanguages;
 };
 
 int main(void) {
